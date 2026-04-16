@@ -1,51 +1,84 @@
 # 👋 Hi, I'm Virgillu
+
 ### Junior Blockchain Developer | Solidity & Web3 Enthusiast
 
 ---
 
 ## 🚀 About Me
-I am a **Junior Blockchain Developer** transitioning into Web3. Having mastered the fundamentals of Solidity through *Beginning Solidity* by Alexandros Dolgov, I am currently building gas-optimized protocols and mastering the **Foundry** framework.
 
-- 🔭 **Current Project:** ForgeVault — A Minimalist ERC-4626 Implementation
+I'm a **Junior Blockchain Developer** transitioning into Web3. After mastering Solidity fundamentals through *Beginning Solidity* by Alexandros Dolgov, I'm now building gas-optimized protocols and mastering the **Foundry** framework.
+
+- 🔭 **Current Project:** [ForgeVault](https://github.com/Virgillu/ForgeVault) — ERC-4626 Yield Vault
 - 📚 **Learning:** Advanced Smart Contract Security & DeFi Math
-- 🌎 **Goal:** Contributing to secure, decentralized infrastructure.
+- 🎯 **Goal:** Contributing to secure, decentralized infrastructure
 
 ---
 
 ## 🛠️ Technical Stack
 
 ### 💻 Development & Environment
-- **Languages:** Solidity, JavaScript, TypeScript
-- **Frameworks:** Foundry, Hardhat
-- **IDEs:** VS Code, Remix
+| Category | Technologies |
+|----------|--------------|
+| Languages | Solidity, JavaScript, TypeScript |
+| Frameworks | Foundry, Hardhat |
+| IDEs | VS Code, Remix |
 
 ### ⛓️ Infrastructure & Storage
-- **Node Providers:** Alchemy (Mainnet/Testnet RPCs)
-- **Decentralized Storage:** IPFS
-- **Tooling:** OpenZeppelin, Ethers.js
+| Category | Technologies |
+|----------|--------------|
+| Node Providers | Alchemy (Mainnet/Testnet RPCs) |
+| Storage | IPFS |
+| Tooling | OpenZeppelin, Ethers.js |
 
 ### 🔍 Security & Analysis
-- **Monitoring:** On-chain Analysis (Etherscan, Dune Analytics)
-- **Security:** Slither, Mythril (Basic auditing)
+| Category | Technologies |
+|----------|--------------|
+| Monitoring | Etherscan, Dune Analytics |
+| Security Tools | Slither, Mythril (Basic) |
 
 ---
 
 ## 📈 Learning Roadmap
 
-- [x] **Phase 1: Blockchain Fundamentals**
-  - Mastered distributed ledger theory via *Blockchain Basics* (Daniel Drescher).
-- [x] **Phase 2: Smart Contract Development**
-  - Completed *Beginning Solidity* (Alexandros Dolgov).
-  - Built and deployed 10+ fundamental smart contracts.
-- [🏗️] **Phase 3: Professional Tooling & Security (Current)**
-  - Transitioning to **Foundry** for industrial-grade testing.
-  - Learning Solidity Security Patterns.
-- [⏳] **Phase 4: Advanced DeFi & Frontend (Next)**
-  - Exploring AMM logic and **Wagmi/React** integration.
+| Phase | Status | Focus |
+|-------|--------|-------|
+| **Phase 1:** Blockchain Fundamentals | ✅ Complete | Distributed ledger theory, *Blockchain Basics* |
+| **Phase 2:** Smart Contract Development | ✅ Complete | *Beginning Solidity*, 10+ deployed contracts |
+| **Phase 3:** Professional Tooling & Security | 🏗️ In Progress | Foundry, Security Patterns, ReentrancyGuard, AccessControl |
+| **Phase 4:** Advanced DeFi & Frontend | ⏳ Next | AMM logic, Wagmi/React integration |
 
 ---
 
-## 📫 Connect with me
-- **E-mail:** virgilsnape@gmail.com
-- **Location:** Shanghai
-  
+## 📊 GitHub Stats
+
+| ![Virgillu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Virgillu&show_icons=true&theme=dark&hide=stars,issues) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Virgillu&layout=compact&theme=dark) |
+| :---: | :---: |
+
+---
+
+## 📫 Connect with Me
+
+- 📧 **Email:** virgilsnape@gmail.com
+- 📍 **Location:** Shanghai
+- 💻 **GitHub:** [github.com/Virgillu](https://github.com/Virgillu)
+
+---
+
+## 🏆 Featured Project
+
+### [ForgeVault](https://github.com/Virgillu/ForgeVault)
+[![Tests](https://github.com/Virgillu/ForgeVault/actions/workflows/test.yml/badge.svg)](https://github.com/Virgillu/ForgeVault/actions/workflows/test.yml)
+[![Solidity](https://img.shields.io/badge/Solidity-0.8.24-black)](https://soliditylang.org/)
+[![Foundry](https://img.shields.io/badge/Built%20with-Foundry-FF6B6B)](https://getfoundry.sh/)
+
+A professional ERC-4626 Tokenized Vault with yield harvesting, performance fees, and 40+ comprehensive tests.
+
+**Key Features:**
+- ✅ ERC-4626 compliant
+- 🔒 ReentrancyGuard & AccessControl
+- 📊 40 passing tests
+- ⛽ Gas optimized (~132k gas per deposit)
+
+---
+
+*“Building secure, efficient, and decentralized infrastructure for the future.”*
