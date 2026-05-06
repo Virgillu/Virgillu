@@ -72,7 +72,9 @@ I'm a **Junior Blockchain Developer** transitioning into Web3. After mastering S
 [![Foundry](https://img.shields.io/badge/Built%20with-Foundry-FF6B6B)](https://getfoundry.sh/)
 
 A professional ERC-4626 Tokenized Vault with yield harvesting, performance fees, and 40+ comprehensive tests.
-
+### 🦀 Rust Projects
+- [eth-rpc-cli](https://github.com/Virgillu/eth-rpc-cli) – CLI tool to query Ethereum blockchain via JSON‑RPC.  
+  *Rust, RPC, CI/CD, unit tests.*
 **Key Features:**
 - ✅ ERC-4626 compliant
 - 🔒 ReentrancyGuard & AccessControl
